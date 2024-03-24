@@ -1,0 +1,20 @@
+historyls
+ls
+c
+ls
+history
+c
+exit
+ls
+clear
+ls
+cd ..
+echo Tejas		S 
+echo ad d v    fs vdf 	 	  dv
+clear
+c
+history
+exit
+rm -r .ipynb_checkpoints
+c
+exit
